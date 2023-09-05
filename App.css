@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  font-size: 2rem;
+}
+ul{
+  list-style: none;
+  font-size: 1.4rem;
+}
+.active{
+  color: aqua;
+}
